@@ -1,0 +1,16 @@
+{
+  "cli": {
+    "version": ">= 3.39.0"
+  },
+  "build": {
+    "production": {
+      "android": {
+        "buildType": "apk"
+      },
+      "env": {
+         "NODE_VERSION": "20.5.0",
+            "EAS_NO_DEV_DEPENDENCIES": "1"  
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "foodlist",
+    "slug": "snack-6183ce5a-7166-42dc-bb19-312b2e1aa7a8",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Logo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "foregroundImage": "./assets/logo-android.png",
+      "backgroundColor": "#ffffff",
+      "package": "com.gabriellerrr.snack6183ce5a716642dcbb19312b2e1aa7a8"
+    },
+    "edgeToEdgeEnabled": true,
+    "package": "com.gabriellerrr.snack6183ce5a716642dcbb19312b2e1aa7a8",
+    "extra": {
+      "eas": {
+        "projectId": "da71f1a9-17b8-473a-8a29-eeffcdff333e"
+      }
+    }
+  },
+  "web": {
+    "favicon": "./assets/favicon.png"
+  },
+  "extra": {
+    "eas": {
+      "projectId": "da71f1a9-17b8-473a-8a29-eeffcdff333e"
+    }
+  }
+}
